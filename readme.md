@@ -55,8 +55,8 @@ healthcare_scheduling_project/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/shanshouli/healthcare_scheduling_project.git
-cd healthcare_scheduling_project
+git clone https://github.com/shanshouli/CS5800_healthcare_scheduling_project.git
+cd CS5800_healthcare_scheduling_project
 ```
 
 ### Install Dependencies
