@@ -210,10 +210,6 @@ The test suite covers various scenarios to ensure the system's robustness and co
     - Tests system performance and stability with a large dataset.
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for more details.
-
 ## Contact
 
 For any questions or suggestions, please contact me:
